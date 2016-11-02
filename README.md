@@ -9,6 +9,7 @@ Archives of git clones
 - https://github.com/sindresorhus/awesome-nodejs
 - https://github.com/IanLunn/Hover
 - https://github.com/DaRaFF/jsgamewiki
+- https://github.com/josephmisiti/awesome-machine-learning#javascript
 
 ### Misc./General
 - https://github.com/ScottDowne/Zelda-js
